@@ -1,10 +1,8 @@
-print("hello world")
+def sum2num(a,b):
+    return a +b
 
 
-#hello world i really like python
-#hello world i really like python
-#hello world i really like python
-#hello world i really like java
-#hello world i really like java
-#hello world i really like java
-#hello world i really like java
+
+
+
+print(sum2num(3,5))
